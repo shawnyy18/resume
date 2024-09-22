@@ -78,10 +78,10 @@ function Contact() {
 function Experience() {
   return (
     <div> 
-      <h3>Work Experience</h3>
+      <h1>Work Experience</h1>
       <div>
-        <h4>Customer Service Representative</h4>
-        <p>SM Pampanga | 2022 - 2022</p>
+        <h2>Customer Service Representative</h2>
+        <h3>SM Pampanga | 2022 - 2022</h3>
         <ul>
           <li><strong>Assisted customers</strong> with product inquiries and provided exceptional service.</li>
           <li><strong>Handled customer transactions</strong>, ensuring accurate bagging and efficient service.</li>
@@ -89,8 +89,8 @@ function Experience() {
         </ul>
       </div>
       <div>
-        <h4>Food Service Crew</h4>
-        <p>KFC | 2023 - 2023</p>
+        <h2>Food Service Crew</h2>
+        <h3>KFC | 2023 - 2023</h3>
         <ul>
           <li><strong>Prepared food and beverages</strong> in compliance with company standards and safety regulations.</li>
           <li><u><strong>Provided prompt service</strong></u> to customers during peak hours, maintaining high satisfaction levels.</li>
